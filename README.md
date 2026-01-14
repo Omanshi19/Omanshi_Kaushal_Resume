@@ -37,9 +37,10 @@ I like working at the intersection of **tech, problem-solving, and impact** — 
 ---
 
 ## 🔗 Let’s Connect
-- 💼 LinkedIn: [Omanshi Kaushal](https://www.linkedin.com/in/omanshi-kaushal-42532924b/)
-- 💻 GitHub: [github.com/Omanshi19](https://github.com/Omanshi19)
-- 📧 Email: omanshikaushal2022@vitbhopal.ac.in
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omanshi%20Kaushal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omanshi-kaushal-42532924b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Omanshi19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omanshi19)
+[![Email](https://img.shields.io/badge/Email-omanshikaushal2022%40vitbhopal.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omanshikaushal2022@vitbhopal.ac.in)
 
 ---
 
