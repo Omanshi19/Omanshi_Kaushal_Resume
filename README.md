@@ -5,7 +5,7 @@ I like working at the intersection of **tech, problem-solving, and impact,** whe
 
 ---
  
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 ### Languages & Frameworks 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
