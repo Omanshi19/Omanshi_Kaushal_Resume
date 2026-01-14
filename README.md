@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Omanshi Kaushal
 
 Curious by nature, builder by choice.  
-I like working at the intersection of **tech, problem-solving, and impact** — whether that’s shipping full-stack apps, experimenting with AI, or building in Web3.
+I like working at the intersection of **tech, problem-solving, and impact,** whether that’s shipping full-stack apps, experimenting with AI or building in Web3.
 
 ---
 
@@ -20,6 +20,7 @@ I like working at the intersection of **tech, problem-solving, and impact** — 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
@@ -29,8 +30,8 @@ I like working at the intersection of **tech, problem-solving, and impact** — 
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-2E2E2E?style=for-the-badge)
 
+
 ### AI & Machine Learning
-![Deep RL](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-5A67D8?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -38,9 +39,10 @@ I like working at the intersection of **tech, problem-solving, and impact** — 
 
 ## 🔗 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omanshi%20Kaushal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omanshi-kaushal-42532924b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Omanshi19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omanshi19)
-[![Email](https://img.shields.io/badge/Email-omanshikaushal2022%40vitbhopal.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omanshikaushal2022@vitbhopal.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omanshi-kaushal-42532924b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omanshi19)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omanshikaushal2022@vitbhopal.ac.in)
+
 
 ---
 
