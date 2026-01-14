@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Omanshi Kaushal
-
+ 
 Curious by nature, builder by choice.  
 I like working at the intersection of **tech, problem-solving, and impact,** whether that’s shipping full-stack apps, experimenting with AI or building in Web3.
 
