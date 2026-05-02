@@ -42,7 +42,6 @@
 ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-FF6B6B?style=for-the-badge)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-1E90FF?style=for-the-badge)
 
-**Core Concepts:** Feature Engineering • Classification & Regression • Data Processing • Model Building & Evaluation
 
 ---
 
